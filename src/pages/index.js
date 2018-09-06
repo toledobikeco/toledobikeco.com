@@ -59,6 +59,7 @@ const LogoWrap = styled.section`
 const AboutWrap = styled.section`
   h1 {
     line-height: 1.5em;
+    text-align: center;
 
     @media only screen and (max-width: 480px) {
       font-size: 1.5rem;
@@ -80,7 +81,7 @@ const IndexPage = () => (
     </LogoWrap>
 
     <AboutWrap>
-      <h1>The Toledo Bicycle Coalition inspires people to bicycle and advocates for a city where everyone feels comfortable riding.</h1>
+      <h1>The Toledo Bicycle Coalition inspires people to bicycle and advocates for a city where everyone feels comfortable&nbsp;riding.</h1>
 
       <hr />
 
