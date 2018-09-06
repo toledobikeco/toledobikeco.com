@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Toledo Bicycle Coalition',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
